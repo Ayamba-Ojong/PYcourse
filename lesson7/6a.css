@@ -1,0 +1,15 @@
+.mod-style {
+  font-family: Montserrat;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+
+}
+.ord-style {
+  font-family: Montserrat;
+  text-align: center;
+  
+}
+.dev-style {
+  text-decoration: underline;
+}
